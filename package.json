@@ -1,0 +1,24 @@
+{
+  "name": "api-linkedin",
+  "version": "1.0.0",
+  "description": "'api linkedin'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "dayam llerena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayamll/API-linkedin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dayamll/API-linkedin/issues"
+  },
+  "homepage": "https://github.com/dayamll/API-linkedin#readme"
+}
