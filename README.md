@@ -1,5 +1,32 @@
-# LINKEDLN - La mayor red profesional del mundo
+# LINKEDIN - La mayor red profesional del mundo
 
-> Recuerda seguir siempre esta [guía de estilos](https://github.com/Laboratoria/js-style-guide/)
+* **Unidad:** _JUGANDO CON WEB APIS_
+* **Ejercicio:** _LINKEDIN_
+* **Desarrolladora:** _Dayam llerena y Margarita Sutta._
 
-Si tú pensabas que LinkedIn solo servía para mantener actualizado tu CV, revisa las siguientes slides para que te sorprendas con todas las posibilidades que nos ofrece para crear diferentes productos.
+***
+
+Esta App comparte información de la aplicación Linkedin.
+
+  ![Device](public/assets/images/screen-desktop.png)
+
+***
+
+## Desarrollo de la aplicación
+
+1. API LINKEDIN:
+
+> [LINKEDN](https://developer.linkedin.com/)
+
+***
+
+## Herramientas a utilizar
+
+1. HTML 5
+2. CSS3
+3. Bootstrap
+4. Javascript
+5. jQuery
+6. API LINKEDIN
+
+***
