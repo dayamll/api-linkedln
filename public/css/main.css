@@ -48,11 +48,14 @@ html {
   display: inline-block;
 }
 
+.button.is-link {
+  margin-top: 10px;
+}
+
 @media only screen and (min-width: 601px) {
   .padding {
     padding-top: 150px;
   }
-
   .titles {
     color: rgb(0, 0, 0);
     font-weight: 800;
@@ -60,7 +63,6 @@ html {
     letter-spacing: 3px;
     padding-top: 0px;
   }
-
   .subtitles {
     color: rgb(0, 0, 0);
     font-weight: 900;
@@ -68,7 +70,6 @@ html {
     letter-spacing: 4px;
     margin: 0;
   }
-
   .first-section {
     background-image: url('../assets/images/fondo.jpg');
     background-position: center;
@@ -78,15 +79,16 @@ html {
     opacity: 0.8;
     filter: alpha(opacity=50);
   }
-
   .notification.is-link {
     height: 50vh;
     background-color: rgba(2, 81, 172, 0.473);
   }
-
   .card {
     width: 30%;
     margin: 20px;
     display: inline-block;
+  }
+  .button.is-link {
+    margin-top: 10px;
   }
 }
